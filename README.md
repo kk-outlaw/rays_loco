@@ -16,6 +16,6 @@ PHP7+GDライブラリで実装しています。
 └─rays_logo/　　　フォントのファイルを配置します。  
 
 ## .gitignoreについて
-こちらのリポジトリより流用させていただき、.ttfファイルについて追記しています。
-.gitignore for PHP developers.
+こちらのリポジトリより流用させていただき、.ttfファイルについて追記しています。  
+.gitignore for PHP developers.  
 https://gist.github.com/Yousha/a5514afd6cda8afba800f5af9f7115b4
