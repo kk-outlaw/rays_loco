@@ -14,3 +14,8 @@ PHP7+GDライブラリで実装しています。
 ├─public_html/  
 │  └─rays_logo/　スクリプト本体、マニュアル等を配置します。  
 └─rays_logo/　　　フォントのファイルを配置します。  
+
+## .gitignoreについて
+こちらのリポジトリより流用させていただき、.ttfファイルについて追記しています。
+.gitignore for PHP developers.
+https://gist.github.com/Yousha/a5514afd6cda8afba800f5af9f7115b4
